@@ -1,5 +1,5 @@
 //Program to define child class Word with advance feature
-package com.tnsif.dayfive.multilevelinheritance.texteditor;
+package com.tns.ifet.dayfive.multilevelinheritance.texteditor;
 
 public class Word extends Wordpad {
     private boolean spellCheckEnabled;

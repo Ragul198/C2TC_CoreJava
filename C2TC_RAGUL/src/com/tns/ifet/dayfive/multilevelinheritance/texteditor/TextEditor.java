@@ -1,5 +1,5 @@
 //Program to demonstrate Multilevel Inheritance
-package com.tnsif.dayfive.multilevelinheritance.texteditor;
+package com.tns.ifet.dayfive.multilevelinheritance.texteditor;
 
 public class TextEditor {
 

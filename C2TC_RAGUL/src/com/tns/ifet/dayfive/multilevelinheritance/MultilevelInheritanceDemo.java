@@ -1,5 +1,5 @@
 //Program to demonstrate MultiLevel inheritance
-package com.tnsif.dayfive.multilevelinheritance;
+package com.tns.ifet.dayfive.multilevelinheritance;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

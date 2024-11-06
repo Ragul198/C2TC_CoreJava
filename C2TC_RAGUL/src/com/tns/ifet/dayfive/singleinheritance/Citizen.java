@@ -1,5 +1,5 @@
 //Program to demonstrate Single level inheritance with this and super keywords
-package com.tnsif.dayfive.singleinheritance;
+package com.tns.ifet.dayfive.singleinheritance;
 
 public class Citizen {
 	private String name;

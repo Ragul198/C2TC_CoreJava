@@ -1,4 +1,4 @@
-package com.tnsif.dayfive.multilevelinheritance.vehicle;
+package com.tns.ifet.dayfive.multilevelinheritance.vehicle;
 
 public class Maruti800 extends Maruti {
 

@@ -1,5 +1,5 @@
 //Program to define class Notepad 
-package com.tnsif.dayfive.multilevelinheritance.texteditor;
+package com.tns.ifet.dayfive.multilevelinheritance.texteditor;
 
 public class Notepad {
     protected String content;
