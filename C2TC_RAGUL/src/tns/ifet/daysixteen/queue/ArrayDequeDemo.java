@@ -1,5 +1,5 @@
 //Program to demonstrate ArrayDeque
-package com.tnsif.daysixteen.queue;
+package tns.ifet.daysixteen.queue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

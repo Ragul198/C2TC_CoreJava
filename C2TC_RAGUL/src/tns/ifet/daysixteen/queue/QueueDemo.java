@@ -1,5 +1,5 @@
 //Program to demonstrate a Queue
-package com.tnsif.daysixteen.queue;
+package tns.ifet.daysixteen.queue;
 
 import java.util.LinkedList;
 import java.util.Queue;
